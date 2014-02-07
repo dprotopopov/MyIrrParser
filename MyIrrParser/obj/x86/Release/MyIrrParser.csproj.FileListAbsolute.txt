@@ -1,0 +1,44 @@
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\MyIrrParser.csprojResolveAssemblyReference.cache
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\Interop.SHDocVw.dll
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\MyIrrParser.csproj.ResolveComReference.cache
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\MyIrrParser.IrrMainForm.resources
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\MyIrrParser.IrrChildForm.resources
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\MyIrrParser.StartupForm.resources
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\MyIrrParser.Properties.Resources.resources
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\MyIrrParser.csproj.GenerateResource.Cache
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\My Irr Parser.exe.licenses
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\Jint.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\libtidy.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\My Irr Parser.exe.config
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\My Irr Parser.exe.manifest
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\My Irr Parser.application
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\My Irr Parser.exe
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\My Irr Parser.pdb
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\HtmlAgilityPack.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\ManagedObject.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyParser.Library.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyParser.Library.Forms.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\WindowsInput.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\CefSharp.WinForms.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyWebCrawler.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\TidyManaged.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\CefSharp.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\ManagedObject.pdb
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyParser.Library.Forms.pdb
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyParser.Library.pdb
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\HtmlAgilityPack.pdb
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\HtmlAgilityPack.xml
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\WindowsInput.xml
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyWebCrawler.pdb
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyWebCrawler.xml
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\TidyManaged.xml
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\My Irr Parser.exe.manifest
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\My Irr Parser.application
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\My Irr Parser.exe
+D:\Projects\MyIrrParser\MyIrrParser\obj\x86\Release\My Irr Parser.pdb
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyParser.Managed.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyParser.WebView.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyWebSimulator.dll
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyParser.Managed.pdb
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyParser.WebView.pdb
+D:\Projects\MyIrrParser\MyIrrParser\bin\Release\MyWebSimulator.pdb
